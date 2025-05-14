@@ -1,0 +1,7 @@
+torch
+numpy
+fire
+tqdm
+wandb
+matplotlib
+ipykernel
